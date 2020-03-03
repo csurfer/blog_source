@@ -1,0 +1,6 @@
+active_modules: [pygments, blog, tags, latex]
+author: Vishwas B Sharma
+canonical_url: https://csurfer.github.io
+modules:
+  pygments:
+    style: tango
