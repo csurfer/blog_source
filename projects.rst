@@ -35,8 +35,8 @@ account. A few good ones are listed here.
 +-----------------------------------+-----------------------------------+
 
 .. _Github: https://www.github.com/csurfer
-.. _pypette: https://github.com/csurfer/pypette
-.. _gitsuggest: https://github.com/csurfer/gitsuggest
-.. _pyheatmagic: https://github.com/csurfer/pyheatmagic
-.. _pyheat: https://github.com/csurfer/pyheat
-.. _rake-nltk: https://github.com/csurfer/rake-nltk
+.. _pypette: https://csurfer.github.io/pypette
+.. _gitsuggest: https://csurfer.github.io/gitsuggest
+.. _pyheatmagic: https://csurfer.github.io/pyheatmagic
+.. _pyheat: https://csurfer.github.io/pyheat
+.. _rake-nltk: https://csurfer.github.io/rake-nltk
