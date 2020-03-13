@@ -30,7 +30,7 @@ Experience
 ----------
 
 -  Software Engineer at `Lyft`_ [Feb 2020 - Present]
--  Member of Technical Staff at `ThoughtSpot Inc.`_ [December 2015 -
+-  Senior Member of Technical Staff at `ThoughtSpot Inc.`_ [December 2015 -
    Feb 2020].
 -  Software Engineer at `Facebook Inc.`_ [March 2014 - December 2015].
 -  Graduate Research Assistant at `Data Science Lab`_ at `Stony Brook
