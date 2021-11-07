@@ -21,7 +21,7 @@ Recipe
 ------
 
 1. Roast 1 table spoon each of corriander seeds, pepper corn and 2 table spoons of cumin seeds with little ghee until its toasted and turns aromatic (usually takes about 5 minutes on low flame).
-2. Grid the toasted mixture with dessicated coconut, salt and little water to create a paste.
+2. Grind the toasted mixture with dessicated coconut, salt and little water to create a paste.
 3. Mix the paste, jaggery and two cups of water and bring it to a boil.
 4. For tempering, fry cut garlic, curry leaves and hing (asafoetida) with a few cumin seeds and add it to the boiling mixture.
 5. Turn off the stove and add half a cup of milk to the hot liquid and consume it.
