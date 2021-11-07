@@ -1,7 +1,6 @@
 public: yes
 tags: [personal]
-summary: |
-  Why I moved away from wordpress?
+summary: Why I moved away from wordpress?
 
 csurfer-version-2.0
 ===================

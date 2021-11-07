@@ -1,7 +1,6 @@
 public: yes
 tags: [recipe, corona-lockdown, healthy-recipe, western-ghats-recipe]
-summary: |
-  Yogurt based rice accompaniments to begin the meals with.
+summary: Yogurt based rice accompaniments to begin the meals with.
 
 Tambuli
 =======
@@ -20,7 +19,7 @@ rice at the beginning of the meal. Tambuli can be made in and with many ingredie
 and is famous in Malnad, Western Ghats and Mangalore areas of Karnataka State in
 India.
 
-It is considered light on the stomach and associated ingredients usually have a 
+It is considered light on the stomach and associated ingredients usually have a
 ton of medicinal benefits.
 
 Recipe

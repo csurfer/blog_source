@@ -1,7 +1,6 @@
 public: yes
 tags: [rsync]
-summary: |
-  The magic ingredient
+summary: The magic ingredient
 
 rsync to godaddy
 ================

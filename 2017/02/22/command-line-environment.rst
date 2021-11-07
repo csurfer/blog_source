@@ -1,7 +1,6 @@
 public: yes
 tags: [cli]
-summary: |
-  One command setup
+summary: One command setup
 
 Command Line Environment
 ========================

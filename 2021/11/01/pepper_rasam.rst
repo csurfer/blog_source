@@ -1,7 +1,6 @@
 public: yes
 tags: [recipe, corona-lockdown, healthy-recipe, western-ghats-recipe]
-summary: |
-  Pepper Rasam (Watery soup like dish) from Karnataka state in South India.
+summary: Pepper Rasam (Watery soup like dish) from Karnataka state in South India.
 
 Pepper Rasam
 ============
