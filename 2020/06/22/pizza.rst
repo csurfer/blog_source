@@ -65,7 +65,7 @@ For the marinara sauce
 
 1. Heat oil in a thick base pan.
 2. Saute the garlic.
-3. Mash or grid the tomato into a puree and add it to the pan once garlic has turned golden.
+3. Mash or grind the tomato into a puree and add it to the pan once garlic has turned golden.
 4. Add a pinch of salt and sugar. You can add herbs like rosemary/thyme into it if you like.
 5. Slow cook this for atleast 30 minutes.
 
