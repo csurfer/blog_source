@@ -1,7 +1,6 @@
 public: yes
 tags: [algorithms]
-summary: |
-    Solving sudoku using AlorithmX
+summary: Solving sudoku using AlorithmX
 
 Dancing links
 =============

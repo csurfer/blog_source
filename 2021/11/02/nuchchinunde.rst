@@ -1,7 +1,6 @@
 public: yes
 tags: [recipe, corona-lockdown, healthy-recipe, western-ghats-recipe]
-summary: |
-  Steamed savory lentil dumplings.
+summary: Steamed savory lentil dumplings.
 
 Nuchchinunde
 ============

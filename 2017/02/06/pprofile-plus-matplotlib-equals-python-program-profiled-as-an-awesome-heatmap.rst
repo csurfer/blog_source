@@ -1,7 +1,6 @@
 public: yes
 tags: [python, profiling]
-summary: |
-  Python profiling for the beginners.
+summary: Python profiling for the beginners.
 
 pprofile + matplotlib = python program profiled as an awesome heatmap
 =====================================================================

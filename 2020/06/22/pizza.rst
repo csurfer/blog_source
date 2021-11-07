@@ -1,7 +1,6 @@
 public: yes
 tags: [recipe, corona-lockdown]
-summary: |
-  Pizza recipe which works best for me.
+summary: Pizza recipe which works best for me.
 
 Pizza
 =====
